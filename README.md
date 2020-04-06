@@ -2,7 +2,7 @@
 Simple Puzzle 15 game coded with PySide2 (a Python binding of the cross-platform GUI toolkit Qt)
 
 <p><b>Install Requirement</b></p>
-pip install PySide2
-pip install functools
+<p>pip install PySide2</p>
+<p>pip install functools</p>
 
 <img src="images/puzzle15-view.png" width="500">
